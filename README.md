@@ -18,7 +18,7 @@ body
 
 
 {
-  "farmId": "7werw",
+  "farmId": "form12",
         "startDate": "15/10/2020",
         "startTime": "21:35",
         "duration": 1
